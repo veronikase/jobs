@@ -10,7 +10,7 @@
 
 ## Что ожидаем 
 * Умение погружаться в детали и находить красивые решения.
-* Большой опыт с JS, Angular.js, React, Boostrap, SASS, CoffeeScript, TypeScript.
+* Большой опыт с JS, Angular.js, React+Redux, Boostrap, SASS, CoffeeScript, TypeScript, Webpack.
 * Трепетное отношение к качеству кода.
 * Умение работать без контроля со стороны.
 * Умение собирать интерфейсы на базе boostrap, без подготовленного дизайна.
