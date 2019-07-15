@@ -9,7 +9,7 @@
 * Оплачиваемый отпуск 28 дней в году.
 
 ## Что ожидаем 
-* Большой опыт с JS, Angular.js, ReactJS, Redux, Boostrap, SASS, CoffeeScript, TypeScript, Webpack.
+* Опыт с JS, HTML, CSS. Фреймворками и инструментами: Angular.js, ReactJS, Boostrap, SASS, CoffeeScript, TypeScript, Webpack.
 * Трепетное отношение к качеству кода, его читаемости и простоты.
 * Самостоятельно структурировать свой режим работы в течение дня и недели.
 * Желание обучаться [вертикально и горизонтально](https://medium.com/@jchyip/why-t-shaped-people-e8706198e437).
