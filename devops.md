@@ -22,7 +22,7 @@
 Знания инструментов, которые вам пригодятся
 
 - Ruby/Rspec. Тесты для инсталлятора написаны на rspec.
-- Kubernetes. У нас кластера на bare metal и GKE, помощь на этих направлениях не помешает.
+- Kubernetes. У нас кластера kubeadm (dev) и GKE (prod), помощь на этих направлениях не помешает.
 - Prometheus и Grafana.
 
 Об Apliteni
