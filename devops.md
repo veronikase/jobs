@@ -1,4 +1,4 @@
-# Позиция DevOps/SRE в Apliteni
+# Позиция DevOps/SRE в Apliteni (закрыта)
 
 Мы предлагаем
 
