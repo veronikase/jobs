@@ -35,7 +35,7 @@ Apliteni - небольшая самоокупающая компания, бе�
 * Рабочий график https://handbook.apliteni.com/schedule.html
 * Как мы общаемся https://handbook.apliteni.com/communication.html
 * Самообучение https://handbook.apliteni.com/learning.html
-* Отпуска, больничные, материнство https://handbook.apliteni.com/perks.html
+* Отпуска, больничные, оплачиваемый декретный отпуск https://handbook.apliteni.com/perks.html
 
 О Keitaro
 
