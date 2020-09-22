@@ -30,7 +30,7 @@ TLDR: Remote; €2,500+; Long-term Contract; Hard & Soft Skills Required; PHP - 
 - Опыт с React.JS или Angular.
 - Развитые Soft Skills. 
 
-**Таккже пригодится**
+**Также пригодится**
 
 - Умение сопровождать свой код тестами.
 - Знание Typescript.
