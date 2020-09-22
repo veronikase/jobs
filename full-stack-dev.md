@@ -1,3 +1,5 @@
+# Разработчик
+
 Keitaro - один из самых популярных трекеров на международном рынке. Мы смогли построить успешный продукт благодаря качественной кодовой базе.
 
 Теперь перед нами стоит новый вызов - мы хотим усилить свои позиции в направлении Highload, чтобы обрабатывать еще большие объемы трафика и делать наших клиентов еще счастливее. 
@@ -25,4 +27,4 @@ Keitaro - один из самых популярных трекеров на м
 
 **Технологии**
 
-PHP 7.3, Golang, ES6,  React, MariaDB/MySQL, ClickHouse, PHPUnit, Jest, Docker, Git, Gitlab CI/CD, Jira Kanban, Slack, G Suite.
+PHP 7.3+, Golang, ES6/TS, React/JS, MariaDB/MySQL, ClickHouse, PHPUnit, Jest, Docker, Git, Gitlab CI/CD, Story Maps, Jira + Kanban Board, Slack.
