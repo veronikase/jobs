@@ -1,6 +1,6 @@
 # Full-Stack разработчик (PHP/React.JS)
 
-`TLDR: Remote; €2,500+; Long term contract; 8y+ experience; PHP, React.JS - must have; Perks.`
+`TLDR: Remote; €2,500+; Long-term Contract; 8y+ Experience; Soft Skills Required, PHP, React.JS - must have; Perks.`
 
 
 У вас есть возможность присоединиться к команде разработчиков Keitaro.io - трекера статистики и будущей платформы для интернет маркетологов. 
