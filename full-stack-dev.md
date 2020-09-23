@@ -61,5 +61,5 @@ Core principles:
 
 
 --- 
-Apliteno OÜ Estonia, Harju maakond, Tallinn, Lasnamäe linnaosa, Sepapaja tn 6, 15551, Reg. Code	14296961.
+Apliteni OÜ, Estonia, Harju maakond, Tallinn, Lasnamäe linnaosa, Sepapaja tn 6, 15551, Reg. Code	14296961.
 
