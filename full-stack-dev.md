@@ -53,5 +53,5 @@ TLDR: Remote; €2,500+; Long-term Contract; Hard & Soft Skills Required; PHP - 
 
 Core principles:
 - Handbook-first. Полная прозрачность рабочих процессов. Каждое изменение в компании совершается через Merge Request и проходит review.
-- Remote-first. Мы работаем удаленно с 1го дня. В 7 часовых поясах.
+- Remote-first. Мы работаем удаленно с 1го дня. В 5 часовых поясах.
 - Kaizen. Улучшаем всё: код, процессы, инструментарий и самих себя.
