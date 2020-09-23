@@ -20,7 +20,7 @@ TLDR: Remote; €2,500+; Long-term Contract; Hard & Soft Skills Required; PHP - 
 
 **Ожидаем**
 
-- У вас есть внутренняя проактивность и вписываетесь в [нашу культуру](https://handbook.apliteni.com/values.html])).
+- У вас есть внутренняя проактивность и вписываетесь в [нашу культуру](https://handbook.apliteni.com/values.html).
 - Что вы сможете находить простые и элегантные решения сложных задач.
 
 **Минимальные требования**
