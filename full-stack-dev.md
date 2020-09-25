@@ -57,9 +57,6 @@ Core principles:
 - Kaizen. Улучшаем всё: код, процессы, инструментарий и самих себя.
 
 
-Хотите работать у нас? Пишите на [jobs@apliteni.com](jobs@apliteni.com).
-
-
 --- 
 Apliteni OÜ, Estonia, Harju maakond, Tallinn, Lasnamäe linnaosa, Sepapaja tn 6, 15551, Reg. Code	14296961.
 
