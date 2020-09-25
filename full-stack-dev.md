@@ -1,7 +1,7 @@
 # Full-Stack разработчик (PHP/React.JS)
 
 ```
-TLDR: Remote; €2,500+; Long-term Contract; Hard & Soft Skills Required; PHP - god mode; Perks included.
+TLDR: Remote; €2,000+; Long-term Contract; Hard & Soft Skills Required; PHP - god mode; Perks included.
 ```
 
 
