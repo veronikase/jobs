@@ -1,7 +1,7 @@
 # Full-Stack разработчик (PHP/JS)
 
 ```
-TLDR: Remote; €2,000+; Long-term Contract; Hard & Soft Skills Required; PHP ; Perks included.
+TLDR: Remote; €2,000+; Long-term contract; Hard & Soft skills required; PHP & JS experiens required; Perks included.
 ```
 
 
