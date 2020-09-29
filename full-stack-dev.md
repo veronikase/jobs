@@ -62,6 +62,12 @@ TLDR: Remote; €2,000+; Long-term contract; Hard & Soft skills required; PHP & 
 
 Более подробно на страницу [https://handbook.apliteni.com/values.html](https://handbook.apliteni.com/values.html).
 
+## Оформление
+
+Бессрочный контракт с эстонской компанией. 
+
+Несмотря на невозможность подписания трудового договора, вам будут предоставлен весь соц. пакет, предусмотренный Трудовым кодексом РФ. Мы поможем в оформлении официального статуса предпринимателя в вашей стране и прохождению валютного контроля в России. 
+
 --- 
 Apliteni OÜ, Estonia, Harju maakond, Tallinn, Lasnamäe linnaosa, Sepapaja tn 6, 15551, Reg. Code	14296961.
 
