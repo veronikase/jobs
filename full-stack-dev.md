@@ -1,7 +1,7 @@
-# Full-Stack разработчик (PHP/React.JS)
+# Full-Stack разработчик (PHP/JS)
 
 ```
-TLDR: Remote; €2,000+; Long-term Contract; Hard & Soft Skills Required; PHP - god mode; Perks included.
+TLDR: Remote; €2,000+; Long-term Contract; Hard & Soft Skills Required; PHP ; Perks included.
 ```
 
 
@@ -27,18 +27,17 @@ TLDR: Remote; €2,000+; Long-term Contract; Hard & Soft Skills Required; PHP - 
 
 - Опыт работы в сложных проектах. Проекты, которые разрабатываются больше года, распределенные или велись большой командой.
 - Глубокие знания PHP. Принимать его со всеми его недостатками. Придерживаться рекомендаций PHP-FIG.
-- Опыт с React.JS или Angular.
+- Опыт создания UI на JavaScript.
 - Развитые Soft Skills. 
 
 **Также пригодится**
 
 - Умение сопровождать свой код тестами.
-- Знание Typescript.
+- Знание TypeSript и React.JS.
 - Опыт развертки и обcлуживания проектов в Kubernetes.
-- Golang.
+- Знание Golang.
 
-Вокруг Keitaro работает множество вспомогательных сервисов. Вы в праве переключаться между проектами, если на них требуется помощь.
-
+Мы помогаем набрать недостающие навыки, которые необходимы для работы над проектом.
 
 **Инструментарий**
 
