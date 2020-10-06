@@ -1,7 +1,7 @@
 # Full-Stack разработчик (PHP/JS)
 
 ```
-TLDR: Remote; €2,000+; Long-term contract; Hard & Soft skills required; PHP & JS experiens required; Perks included.
+TLDR: Remote; €2,000+; Long-term contract; Hard & Soft skills required; PHP & JS experience required; Perks included.
 ```
 
 
@@ -60,7 +60,7 @@ TLDR: Remote; €2,000+; Long-term contract; Hard & Soft skills required; PHP & 
 - Remote-first. Мы работаем удаленно с 1го дня. В 5 часовых поясах.
 - Kaizen. Улучшаем всё: код, процессы, инструментарий и самих себя.
 
-Более подробно на страницу [https://handbook.apliteni.com/values.html](https://handbook.apliteni.com/values.html).
+Более подробно на странице [https://handbook.apliteni.com/values.html](https://handbook.apliteni.com/values.html).
 
 ## Оформление
 
